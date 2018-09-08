@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+## Ingredients
 
-You can use the [editor on GitHub](https://github.com/NickKroehl/Green-Chili-Roasted-Pork-Recipe/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+- 1 tablespoon bacon drippings
+- 1 tablespoon olive oil
+- 4 pounds pork shoulder roast
+- 1 onion chopped
+- 5 cloves garlic peeled and minced
+- 1 quart chicken broth
+- 1 tablespoon salt
+- 1 1/2 tablespoons coriander
+- 1 teaspoon ground cumin
+- 1 teaspoon hot Chimayo Chile Powder or good quality red chile powder
+- 1 teaspoon of your favorite chili powder
+- 1 1/2 tablespoons Mexican Oregano
+- 14.5 ounces can chopped tomato undrained
+- 15 chile peppers chopped roasted, skinned and chopped
+- 1 teaspoon sweet smoked paprika
+- Juice from 1/2 lime
+- 1/2 cup water
+- 1/4 cup cornstarch
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Instructions
 
-### Markdown
+Simply season the pork roast with salt and pepper. Place in a large Dutch oven, cover and roast in a 350 degree oven until done. About 3 hours. Remove the roast from the pan and let cool and then shred the meat with two forks. Set aside.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Heat the oil and the bacon drippings in the same Dutch oven. Add the onion and cook until soft, about 10 minutes . Add the garlic and cook until fragrant.
 
-```markdown
-Syntax highlighted code block
+Add the shredded meat, tomatoes, chicken broth, salt, coriander, cumin, oregano, tomatoes, chile powders, and chiles. Bring to a boil and then simmer on low for 2 hours.
 
-# Header 1
-## Header 2
-### Header 3
+**Optional:** In a bowl, combine water and cornstarch and stir until combined. Add a little of this to thicken the soup, if desired.
 
-- Bulleted
-- List
+Add a squeeze of lime to each bowl of chili. From here, taste and adjust the seasonings to your taste. Serve with warm flour tortillas.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NickKroehl/Green-Chili-Roasted-Pork-Recipe/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Notes
+I haven't actually made this yet.
